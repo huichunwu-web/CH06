@@ -1,0 +1,6 @@
+{
+  "name": "常見食物中毒及預防數位學習系統",
+  "description": "食品安全與食物中毒預防數位學習平台，包含學習字卡、模擬測驗、情境案例分析及PDF學習報告匯出。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
